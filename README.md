@@ -3,7 +3,7 @@ This project aims to create a flight delay warning system for the Pittsburgh Int
 
 Significant features:
  
-  1. Well developed data visualizations using R's ggplot to discover and narrate Air Time trends
+  1. Well developed data visualizations using R's ggplot to discover and narrate flight trends
   2. Looks at flights that are inbound or outbound to Pittsburgh
   3. Provides a detailed assessment of the various classification models
  
